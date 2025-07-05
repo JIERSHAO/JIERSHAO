@@ -1,7 +1,12 @@
 ## Hi there 👋
 - 🔭 I am currently pursuing a Master of Science degree in Nuclear Energy Science and Technology at Sun Yat-sen University, focusing on research in numerical simulation software development for reactor physics, computer graphics, and high-performance computing.
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIERSHAO)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIERSHAO)
+
+<div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JIERSHAO" />
+</div>
+<div style="display: inline-block; margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIERSHAO" />
+</div>
 <!--
 **JIERSHAO/JIERSHAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
